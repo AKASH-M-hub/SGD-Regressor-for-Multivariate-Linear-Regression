@@ -70,6 +70,7 @@ print("\nPredictions:\n", Y_pred[:5])
 ![image](https://github.com/user-attachments/assets/f50ce276-fcac-453d-972b-ed9f60bed7c9)
 
 ![image](https://github.com/user-attachments/assets/46492912-c73c-40e6-a35e-90c4a7d92368)
+
 ![image](https://github.com/user-attachments/assets/e9f523d5-f711-455a-bba2-b7f0dac8d191)
 
 
